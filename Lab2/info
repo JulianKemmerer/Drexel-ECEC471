@@ -1,0 +1,18 @@
+aaa=2.85u width
+
+λ=0.3
+
+minimum size transistor dimensions 
+(W = 1.5um and L =
+0.6um)
+
+The same pin names and same connections.
+Same transistors in same size as those in the schematic.
+
+height from bottom of the GND
+rail to top of the VDD rail) is 35um.
+
+
+How does 'width' indicate pactive polygon
+and 'length' indicate poly polygon?
+Overlap of poly and pactive is region being described

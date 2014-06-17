@@ -1,0 +1,44 @@
+Optimal Stages:
+f = n_root(C_load / C_gate_in)
+f is sizing factor
+Use exponential
+f = 3
+e = n_root(1pF / 10fF)
+e = n_root(1pF / 10fF)
+e ^ n = C_load / C_gate_in
+n = ln( C_load / C_gate_in)
+n = ln(1pF / 10fF)
+n = 4.6
+n = 4
+
+Inverter average prop time:
+		(ns)	(ns)	(ns)
+	    Trans1	Trans2	Avg
+INV1	1.1392	0.8398	0.9895
+INV2	0.4148	0.3384	0.3766
+INV3	0.2096	0.2519	0.23075
+INV4	0.3681	0.344	0.35605
+Avg trans time for all inverters = 0.4882 ns
+
+Total measured from first to last invertor
+	    Trans1	Trans2	Avg
+F2L		2.1279	1.7812	1.95455
+
+Compared to single invertor
+		(ns)	(ns)	(ns)
+	    Trans1	Trans2	Avg
+Lab2INV	7.6887	6.0499	6.8693
+
+
+1.5u to 5.0u sweep times
+		(ns)	(ns)
+		x=5u	x=1.5u	
+RISE	2.1591	6.9876
+FALL	2.6609	8.3351
+
+
+
+
+
+
+

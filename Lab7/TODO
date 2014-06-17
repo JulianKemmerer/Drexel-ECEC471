@@ -1,0 +1,26 @@
+Schematic simulation
+Layout simulation
+
+Setup Time Screenshots (<=50ps) sweep range
+	Schem Based
+	Layout Based
+	
+Hold Time Screenshots (<=50ps) sweep range
+	Schem Based
+	Layout Based
+	
+Schem Based
+	Clocking in 0:
+		Propogation
+		Transition Time
+	Clocking in 1:
+		Propogation
+		Transition Time
+
+Layout Based
+	Clocking in 0:
+		Propogation
+		Transition Time
+	Clocking in 1:
+		Propogation
+		Transition Time
